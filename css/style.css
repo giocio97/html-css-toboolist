@@ -21,7 +21,8 @@ body{
 
 #logo{
     margin-left: 10px;
-    
+    line-height: 100px;
+    vertical-align: middle;
 
 }
 
@@ -93,4 +94,8 @@ body{
 .rectangle.ed{
     background-color: rgb(105, 201, 233);
     
+}
+
+.linea{
+    margin-bottom: 20px;
 }
