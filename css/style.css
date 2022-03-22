@@ -47,8 +47,8 @@ body{
     border-radius: 10px;
 }
 .tasti{
+    margin-left: 50px;
     padding: 10px;
-    padding-left: 20px;
     margin-bottom: 1px;
 }
 
@@ -71,7 +71,7 @@ body{
 
 .sezione{
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 50px;
 }
 .title-sec{
     display: inline-block;
@@ -79,10 +79,13 @@ body{
 }
 .spunta{
     color: green;
-    border: solid 1px;
-    border-radius: 10px;
-    padding: 2px;
     margin: 2px;
+    height: 20px;
+    width: 20px;
+    border: solid green 1px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
 }
 
 .rectangle{
@@ -101,10 +104,13 @@ body{
 }
 .spunta-red{
     color: rgb(185, 36, 9);
-    border: solid 1px;
-    border-radius: 20px;
-    padding: 2px;
     margin: 2px;
+    height: 20px;
+    width: 20px;
+    border: solid red 1px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
     
 }
 
