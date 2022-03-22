@@ -15,21 +15,21 @@ body{
 #head-logo{
             background-color: white;
             height: 100px;
-            line-height: 100px;
-            vertical-align: middle;
+            
             
 }
 
 #logo{
     margin-left: 10px;
-    line-height: 100px;
-    vertical-align: middle;
+    
 
 }
 
 #logotext{
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 100px;
+    vertical-align: middle;
     
     
 
@@ -67,3 +67,30 @@ body{
     color: #ccc;
 }
     /* corpo */
+
+.sezione{
+    padding: 10px;
+    margin-left: 5px;
+}
+.title-sec{
+    display: inline-block;
+    margin: 10px;
+}
+.spunta{
+    color: green;
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.rectangle{
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+}
+.rectangle.ed{
+    background-color: rgb(105, 201, 233);
+    
+}
