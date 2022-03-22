@@ -32,3 +32,35 @@ body{
     
 
 }
+
+/* parte centrale */
+
+.box{
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+.tasti{
+    padding: 10px;
+    padding-left: 20px;
+    margin-bottom: 1px;
+}
+
+.tasti > button{
+    font-family: Arial, Helvetica, sans-serif;
+    border border-radius: 2px;
+    padding: 5px;
+}
+
+#tast-blu{
+    background-color: rgb(106, 167, 236);
+    color: white;
+}
+
+#tast-w{
+    background-color: white;
+    color: #ccc;
+}
