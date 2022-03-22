@@ -54,7 +54,7 @@ body{
 
 .tasti > button{
     font-family: Arial, Helvetica, sans-serif;
-    border border-radius: 2px;
+    border-radius: 2px;
     padding: 5px;
 }
 
@@ -71,7 +71,7 @@ body{
 
 .sezione{
     padding: 10px;
-    margin-left: 5px;
+    margin-left: 20px;
 }
 .title-sec{
     display: inline-block;
@@ -118,5 +118,15 @@ body{
 }
 .rectangle.mob{
     background-color: rgb(245, 127, 48);
+    
+}
+
+.rectangle.web{
+    background-color: rgb(245, 73, 125);
+    
+}
+
+.rectangle.sale{
+    background-color: rgb(89, 192, 79);
     
 }
