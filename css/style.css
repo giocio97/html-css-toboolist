@@ -99,3 +99,24 @@ body{
 .linea{
     margin-bottom: 20px;
 }
+.spunta-red{
+    color: rgb(185, 36, 9);
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 2px;
+    
+}
+
+.rectangle.q1{
+    background-color: rgb(213, 54, 228);
+    
+}
+.rectangle.rec{
+    background-color: rgb(105, 233, 126);
+    
+}
+.rectangle.mob{
+    background-color: rgb(245, 127, 48);
+    
+}
