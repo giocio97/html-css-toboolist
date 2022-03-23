@@ -15,22 +15,30 @@ body{
 #head-logo{
             background-color: white;
             height: 100px;
+            width: auto;
+            
             
             
 }
 
+header{
+        line-height: 100px;
+    
+}
 #logo{
     margin-left: 10px;
-    line-height: 100px;
+    display: inline;
     vertical-align: middle;
+    
 
 }
 
 #logotext{
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 100px;
-    vertical-align: 5%;
+    vertical-align: middle;
+   
+    
     
     
 
